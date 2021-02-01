@@ -67,7 +67,7 @@
     "@babel/preset-env": "^7.12.11",
     "@changesets/cli": "^2.13.1",
     "@rollup/plugin-babel": "^5.2.2",
-    "@rollup/plugin-commonjs": "^17.0.0",
+    "@rollup/plugin-commonjs": "^17.1.0",
     "@rollup/plugin-node-resolve": "^11.1.0",
     "@testing-library/cypress": "^7.0.3",
     "@types/jquery": "^3.5.5",
